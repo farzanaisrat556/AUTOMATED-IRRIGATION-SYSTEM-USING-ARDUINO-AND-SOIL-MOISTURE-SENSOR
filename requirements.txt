@@ -1,0 +1,10 @@
+# Hardware Components:
+# - Arduino Nano
+# - Soil Moisture Sensor
+# - 12V Relay Module
+# - 5V DC Pump
+# - Wires
+# - 9V Battery
+
+# Software:
+# - Arduino IDE
