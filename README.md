@@ -32,7 +32,7 @@ A detailed circuit diagram is available in the project's original documentation.
    Connect all components according to the circuit diagram.
 
 2. **Arduino Code**  
-   Upload the provided Arduino sketch to your Arduino Nano. The code reads data from the soil moisture sensor and controls the pump via the relay module.
+   The code reads data from the soil moisture sensor and controls the pump via the relay module.
 
 3. **Power On**  
    Connect the 9V battery to power the system. The system will begin monitoring soil moisture and watering the plant as needed.
